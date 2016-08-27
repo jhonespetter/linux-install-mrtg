@@ -1,7 +1,6 @@
 # Linux
 
+#Instalar MRTG
 
-#============= Instalar MRTG
-
-#============= Links
+#Links
 http://wordpress.jpcorp.eti.br/?p=404
